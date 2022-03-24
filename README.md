@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile!
 
 - 👋 Hi, I’m **Piotr Śmietanka**
+- 👨‍💻 React Developer at widelab.co
 - 🎓 Mechatronics (Multimedia Technologies) Engineer **(Warsaw University of Technology)**
 - 👀 I’m interested in **Fullstack Development, Online Marketing and Teaching**
 - 🌱 I am currently developing my programming skills in: **React.js, JavaScript and Node.js**
